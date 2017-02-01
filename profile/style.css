@@ -1,0 +1,62 @@
+/* Fonts and colors */
+body {
+  color: #505050;
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: lighter;
+  font-family: 'Lora', serif;
+  background-color: #eee;
+  margin: 0;
+}
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+h2 {
+  color: #A0A0A0;
+  font-weight: normal;
+}
+a {
+  text-decoration: none;
+  color: #AAA;
+}
+img {
+  width: 100px;
+}
+ul {
+  list-style: none;
+}
+ul li {
+  display: inline-block;
+  padding: 0px 60px;
+  padding-left: 0px;
+}
+.btn-red {
+    background-color: #DD5555;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.card {
+  background: white;
+  text-align: center;
+  width: 500px;
+  padding: 20px;
+  margin: 30px auto;
+}
+.card img {
+  margin: 10px auto;
+}
+
+.top img {
+  background: white;
+  width: 100px;
+  border: 2px solid lightgrey;
+  border-radius: 50%;
+}
+
+.text-center{
+  text-align: center;
+}
